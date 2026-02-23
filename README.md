@@ -41,3 +41,7 @@ The program will:
 2. Extract the default gateway from the DHCP response.
 3. Recursively discover routers and their connected devices via SNMP (the community string is `PSIPUB` by default and can be changed in the source code).
 4. Print the resulting network topology to standard output.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE) – Copyright © 2025 Jiří Winter.
