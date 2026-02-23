@@ -1,4 +1,4 @@
-# kiv-psi-2
+# Network SNMP Discovery
 
 Semestral project for the **Computer Networks (KIV/PSI)** course.
 
